@@ -1,4 +1,4 @@
-# STARKs
+# libSTARKs
 
 STARKs (Scalable Transparent Argument of Knowledge) is a relatively complex zero-knowledge proof algorithm, and it would require significant effort to implement it from scratch in C++. However, there are libraries available that provide implementations of STARKs that can be used in C++ code.
 
